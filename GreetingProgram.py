@@ -1,4 +1,4 @@
-# A Python Program Capable of Greeting You With Good Morning, Good Afternoon, Good Night And Good Evening Using time Module
+# A Python Program Capable of Greeting You With Good Morning, Good Afternoon, Good Evening And Good Night Using time Module
 
 from time import *
 
